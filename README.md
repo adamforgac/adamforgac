@@ -17,4 +17,4 @@
 
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://www.instagram.com/adamforgacc" />][instagram]
 
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/adamforgacc
