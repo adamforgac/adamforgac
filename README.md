@@ -13,8 +13,4 @@
 - <b>Sign in form design</b>
   - https://github.com/adamforgac/sign-up-form
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://www.instagram.com/adamforgacc" />][instagram]
-
-[instagram]: https://www.instagram.com/adamforgacc
+<h2> 🤳 Connect with me using <a href="mailto:aforg@email.cz">e-mail</a></h2>
