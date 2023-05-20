@@ -13,4 +13,4 @@
 - <b>Sign in form design</b>
   - https://github.com/adamforgac/sign-up-form
 
-<h2> 🤳 Connect with me using <a href="mailto:aforg@email.cz">e-mail</a></h2>
+<h2> 🤳 Connect with me via <a href="mailto:aforg@email.cz">e-mail</a></h2>
