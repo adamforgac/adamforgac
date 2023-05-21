@@ -10,7 +10,7 @@
   - https://github.com/adamforgac/Calculator
 - <b>Simple restaurant page with tab-switching logic</b>
   - https://github.com/adamforgac/restaurant-page
-- <b>home page and about page of the tutoring website</b>
+- <b>Home page and about page of the tutoring website</b>
   - https://adamforgac.github.io/tutoring-web/
 
 <h2> 🤳 Contact me via <a href="mailto:aforg@email.cz">e-mail</a></h2>
