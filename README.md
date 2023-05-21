@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Some of my projects</h2>
 
-- <b>Book library prototype</b>
-  - https://github.com/adamforgac/Library
 - <b>Tic Tac Toe game with different game modes</b>
   - https://github.com/adamforgac/tic-tac-toe
 - <b>Retro Apple calculator</b>
@@ -12,5 +10,7 @@
   - https://github.com/adamforgac/restaurant-page
 - <b>Home page and about page of the tutoring website</b>
   - https://adamforgac.github.io/tutoring-web/
+- <b>Book library prototype</b>
+  - https://github.com/adamforgac/Library
 
 <h2> 🤳 Contact me via <a href="mailto:aforg@email.cz">e-mail</a></h2>
