@@ -6,7 +6,7 @@
   - https://github.com/adamforgac/Library
 - <b>Tic Tac Toe game with different game modes</b>
   - https://github.com/adamforgac/tic-tac-toe
-- <b>Calculator</b>
+- <b>Retro Apple calculator</b>
   - https://github.com/adamforgac/Calculator
 - <b>Simple restaurant page with tab-switching logic</b>
   - https://github.com/adamforgac/restaurant-page
