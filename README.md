@@ -12,5 +12,6 @@
   - https://adamforgac.github.io/tutoring-web/
 - <b>Book library prototype</b>
   - https://github.com/adamforgac/Library
+- <b>Some other projects: https://github.com/adamforgac?tab=repositories</b>
 
 <h2> 🤳 Contact me via <a href="mailto:aforg@email.cz">e-mail</a></h2>
