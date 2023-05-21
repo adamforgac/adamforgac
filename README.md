@@ -10,7 +10,7 @@
   - https://github.com/adamforgac/Calculator
 - <b>Simple restaurant page with tab-switching logic</b>
   - https://github.com/adamforgac/restaurant-page
-- <b>Sign in form design</b>
+- <b>Sign up form design</b>
   - https://github.com/adamforgac/sign-up-form
 
 <h2> 🤳 Contact me via <a href="mailto:aforg@email.cz">e-mail</a></h2>
