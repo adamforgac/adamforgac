@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Some of my projects</h2>
 
+- <b>No delay todo list app</b>
+  - https://adamforgac.github.io/to-do-list/
 - <b>Tic Tac Toe game with different game modes</b>
   - https://github.com/adamforgac/tic-tac-toe
 - <b>Retro Apple calculator</b>
