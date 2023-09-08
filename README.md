@@ -13,7 +13,7 @@
 - <b>Simple restaurant page with tab-switching logic</b>
   - https://adamforgac.github.io/restaurant-page/
 - <b>Knight travails shortest path finder</b>
-  - https://github.com/adamforgac/knights-travails
+  - https://adamforgac.github.io/knights-travails/
 - <b>Some other projects</b>
   - https://github.com/adamforgac?tab=repositories
 <h2> 🤳 Contact me via <a href="mailto:aforg@email.cz">e-mail</a></h2>
