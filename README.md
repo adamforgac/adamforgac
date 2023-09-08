@@ -9,7 +9,7 @@
 - <b>No delay todo list app</b>
   - https://adamforgac.github.io/to-do-list/
 - <b>Retro Apple calculator</b>
-  - https://github.com/adamforgac/Calculator
+  - https://adamforgac.github.io/calculator/
 - <b>Simple restaurant page with tab-switching logic</b>
   - https://github.com/adamforgac/restaurant-page
 - <b>Knight travails shortest path finder</b>
