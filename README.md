@@ -11,7 +11,7 @@
 - <b>Retro Apple calculator</b>
   - https://adamforgac.github.io/calculator/
 - <b>Simple restaurant page with tab-switching logic</b>
-  - https://github.com/adamforgac/restaurant-page
+  - https://adamforgac.github.io/restaurant-page/
 - <b>Knight travails shortest path finder</b>
   - https://github.com/adamforgac/knights-travails
 - <b>Some other projects</b>
