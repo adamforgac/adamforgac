@@ -1,6 +1,6 @@
 <h1>Hi, I'm Adam!</h1><a href="https://github.com/adamforgac">Beginner Programmer</a>, <a href="http://www.gjszlin.cz/gztgm/">High School Student</a>, <a href="https://www.theodinproject.com/">The Odin Project Participant</a></h1>
 
-<h2>👨‍💻 Some of my projects</h2>
+<h2>👨‍💻 See my projects</h2>
 
 - <b>No delay todo list app</b>
   - https://adamforgac.github.io/to-do-list/
