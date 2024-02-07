@@ -5,7 +5,7 @@
 - <b>The New York Times web clone</b>
   - https://adamforgac.github.io/nytimes-clone/
 - <b>Weather app</b>
-  - https://adamforgac.github.io/weather-app (4. 2. 2024 an error bug related with API change was fixed)
+  - https://adamforgac.github.io/weather-app
 - <b>Home page and about page of the tutoring website</b>
   - https://adamforgac.github.io/tutoring-web/
 - <b>No delay todo list app</b>
