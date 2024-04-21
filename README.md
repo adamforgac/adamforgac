@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 See my projects:</h2>
 
-- <b>The New York Times web clone</b>
+- <b>The New York Times homepage web clone</b>
   - https://adamforgac.github.io/nytimes-clone/
 - <b>Weather app</b>
   - https://adamforgac.github.io/weather-app
