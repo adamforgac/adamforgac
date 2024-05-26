@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 See my projects:</h2>
 
+- <b>State contract of hygiene Ústí nad Labem</b>
+  - https://khsusti.cz
 - <b>The New York Times homepage web clone</b>
   - https://adamforgac.github.io/nytimes-clone/
 - <b>Weather app</b>
@@ -14,8 +16,6 @@
   - https://adamforgac.github.io/battleship/
 - <b>Home page and about page of the tutoring website</b>
   - https://adamforgac.github.io/tutoring-web/
-- <b>Simple restaurant page with tab-switching logic</b>
-  - https://adamforgac.github.io/restaurant-page/
 - <b>Some other projects</b>
   - https://github.com/adamforgac?tab=repositories
 <h2> 🤳 Contact me via <a href="mailto:aforg@email.cz">e-mail</a></h2>
