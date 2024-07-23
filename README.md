@@ -6,8 +6,8 @@
   - https://khsusti.cz
 - <b>The New York Times homepage web clone</b>
   - https://adamforgac.github.io/nytimes-clone/
-- <b>Weather app</b>
-  - https://adamforgac.github.io/weather-app
+- <b>Springfree trampolines websites (CZ, AT, SK, PL...)</b>
+  - https://www.springfreetrampoline.at
 - <b>Knight travails shortest path finder</b>
   - https://adamforgac.github.io/knights-travails/
 - <b>No delay todo list app</b>
