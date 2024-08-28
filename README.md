@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adam!</h1>FE</h1>
+<h1>Hi, I'm Adam!</h1>
 
 <h2>👨‍💻 See my projects:</h2>
 
