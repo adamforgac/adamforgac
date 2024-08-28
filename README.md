@@ -18,4 +18,4 @@
   - https://adamforgac.github.io/tutoring-web/
 - <b>Some other projects</b>
   - https://github.com/adamforgac?tab=repositories
-<h2> 🤳 Contact me via <a href="mailto:aforg@email.cz">e-mail</a></h2>
+<h2> 🤳 Contact me via <a href="mailto:aforg@email.cz">e-mail</a> to see my current projects.</h2>
