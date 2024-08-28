@@ -8,6 +8,8 @@
   - https://adamforgac.github.io/nytimes-clone/
 - <b>Springfree trampolines websites (CZ, AT, SK, PL...)</b>
   - https://www.springfreetrampoline.at
+- <b>XY Brands store</b>
+  - https://www.xybrands.cz
 - <b>Knight travails shortest path finder</b>
   - https://adamforgac.github.io/knights-travails/
 - <b>No delay todo list app</b>
