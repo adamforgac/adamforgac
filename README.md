@@ -1,5 +1,5 @@
 <h1>Hi, I'm Adam!</h1>
-<p>>Graphic & Web designer and developer</p>
+<p>Graphic & Web designer and developer</p>
 
 <h2>Take a look at my portfolio and how I actually designed and coded it!</h2>
 
