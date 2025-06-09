@@ -10,7 +10,7 @@
   - [https://github.com/adamforgac/Portfolio](https://github.com/adamforgac/Portfolio)
 
 - <b>Design of the portfolio</b>
-  - [https://www.figma.com/design/5xyzwbAJAAWZNyW8QIqX7V/Portfolio-design-process?node-id=102-6&t=s7jwLlp88FPr3f0l-1](https://www.figma.com/design/5xyzwbAJAAWZNyW8QIqX7V/Portfolio-design-process?node-id=102-6&t=s7jwLlp88FPr3f0l-1)
+  - [https://www.figma.com/design/5xyzwbAJAAWZNyW8QIqX7V/Portfolio-design-process?node-id=8159-2825](https://www.figma.com/design/5xyzwbAJAAWZNyW8QIqX7V/Portfolio-design-process?node-id=8159-2825)
     
 - <b>Other projects from my GitHub</b>
   - [https://github.com/adamforgac?tab=repositories](https://github.com/adamforgac?tab=repositories)
