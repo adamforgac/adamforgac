@@ -15,7 +15,7 @@
 - <b>Wait!! Looks nice, but is the portfolio really valid??</b>
   - [https://validator.w3.org/nu/?doc=https%3A%2F%2Fadamforgac.cz%2F](https://validator.w3.org/nu/?doc=https%3A%2F%2Fadamforgac.cz%2F)
     
-- <b>Other projects from my GitHub</b>
+- <b>Other projects from my GitHub (I won't hide old projects so you can see the progress:D)</b>
   - [https://github.com/adamforgac?tab=repositories](https://github.com/adamforgac?tab=repositories)
 
 
