@@ -3,14 +3,17 @@
 
 <h2>Take a look at my portfolio and how I actually designed and coded it!</h2>
 
-- <b>[Live web portfolio](https://adamforgac.cz)</b>
+- <b>Live web portfolio</b>
   - [https://adamforgac.cz](https://adamforgac.cz)
  
-- <b>[Code of the portfolio](https://github.com/adamforgac/Portfolio)</b>
+- <b>Code of the portfolio</b>
   - [https://github.com/adamforgac/Portfolio](https://github.com/adamforgac/Portfolio)
 
-- <b>[Design of the portfolio](https://github.com/adamforgac?tab=repositories)</b>
+- <b>Design of the portfolio</b>
   - [https://www.figma.com/design/5xyzwbAJAAWZNyW8QIqX7V/Portfolio-design-process?node-id=102-6&t=s7jwLlp88FPr3f0l-1](https://www.figma.com/design/5xyzwbAJAAWZNyW8QIqX7V/Portfolio-design-process?node-id=102-6&t=s7jwLlp88FPr3f0l-1)
+    
+- <b>Other projects from my GitHub</b>
+  - [https://github.com/adamforgac?tab=repositories](https://github.com/adamforgac?tab=repositories)
 
 
 <h2> 🤳 Contact me via <a href="mailto:web@adamforgac.cz">email</a> or just fill out my form: https://adamforgac.cz/form</h2>
