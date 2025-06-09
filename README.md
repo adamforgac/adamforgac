@@ -1,19 +1,16 @@
 <h1>Hi, I'm Adam!</h1>
+<p>>Graphic & Web designer and developer</p>
 
-<h2>👨‍💻 See my projects:</h2>
+<h2>Take a look at my portfolio and how I actually designed and coded it!</h2>
 
-- <b>State contract of hygiene Ústí nad Labem</b>
-  - https://khsusti.cz
-- <b>The New York Times homepage web clone</b>
-  - https://adamforgac.github.io/nytimes-clone/
-- <b>Springfree trampolines websites (CZ, AT, SK, PL...)</b>
-  - https://www.springfreetrampoline.at
-- <b>XY Brands store</b>
-  - https://www.xybrands.cz
-- <b>Knight travails shortest path finder</b>
-  - https://adamforgac.github.io/knights-travails/
-- <b>No delay todo list app</b>
-  - https://adamforgac.github.io/to-do-list/
-- <b>Home page and about page of the tutoring website</b>
-  - https://adamforgac.github.io/tutoring-web/
-<h2> 🤳 Contact me via <a href="mailto:aforg@email.cz">e-mail</a> to see my current projects.</h2>
+- <b>[Live web portfolio](https://adamforgac.cz)</b>
+  - [https://adamforgac.cz](https://adamforgac.cz)
+ 
+- <b>[Code of the portfolio](https://github.com/adamforgac/Portfolio)</b>
+  - [https://github.com/adamforgac/Portfolio](https://github.com/adamforgac/Portfolio)
+
+- <b>[Design of the portfolio](https://github.com/adamforgac?tab=repositories)</b>
+  - [https://www.figma.com/design/5xyzwbAJAAWZNyW8QIqX7V/Portfolio-design-process?node-id=102-6&t=s7jwLlp88FPr3f0l-1](https://www.figma.com/design/5xyzwbAJAAWZNyW8QIqX7V/Portfolio-design-process?node-id=102-6&t=s7jwLlp88FPr3f0l-1)
+
+
+<h2> 🤳 Contact me via <a href="mailto:web@adamforgac.cz">email</a> or just fill out my form: https://adamforgac.cz/form</h2>
