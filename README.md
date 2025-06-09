@@ -11,6 +11,9 @@
 
 - <b>Design of the portfolio</b>
   - [https://www.figma.com/design/5xyzwbAJAAWZNyW8QIqX7V/Portfolio-design-process?node-id=8159-2825](https://www.figma.com/design/5xyzwbAJAAWZNyW8QIqX7V/Portfolio-design-process?node-id=8159-2825)
+ 
+- <b>Wait!! Looks nice, but is the portfolio really valid??</b>
+  - [https://validator.w3.org/nu/?doc=https%3A%2F%2Fadamforgac.cz%2F](https://validator.w3.org/nu/?doc=https%3A%2F%2Fadamforgac.cz%2F)
     
 - <b>Other projects from my GitHub</b>
   - [https://github.com/adamforgac?tab=repositories](https://github.com/adamforgac?tab=repositories)
